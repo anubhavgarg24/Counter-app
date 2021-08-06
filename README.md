@@ -1,5 +1,7 @@
 # Counter-app
 
+[Website link](https://friendly-count-with-me.netlify.app/)
+
 ![](counter.png)
 
 Features:
